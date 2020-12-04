@@ -9,8 +9,8 @@ package EE333;
  *
  * @author gmyers
  */
-public class gmyers {
+public class nobaid1 {
     public static void SayHello() {
-        System.out.println("Hello from Gregory Myers!");
+        System.out.println("Hello from Noor Obaid!");
     }
 }

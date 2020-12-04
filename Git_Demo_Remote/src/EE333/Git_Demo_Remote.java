@@ -15,7 +15,7 @@ public class Git_Demo_Remote {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        EE333.gmyers.SayHello();
+        EE333.nobaid1.SayHello();
         
     }
     
